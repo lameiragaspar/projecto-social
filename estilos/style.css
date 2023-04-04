@@ -17,11 +17,6 @@ main{
     height: 100vh;
     width: 100vw;
 }
-
-div{
-    width:50vw;
-}
-
 section.phone{
     position: absolute;
     left: 50%;
